@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Khalid Imran 👋
 
-<!--
-**khalid-myprojects/khalid-myprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Computer Science Student
 
-Here are some ideas to get you started:
+🚀 Passionate about Mobile App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Flutter & Dart Developer
+
+🔥 Firebase & REST API Integration
+
+🎓 BSCS Student at UET Taxila
+
+🌱 Currently Learning Advanced Flutter Animations
+
+---
+
+## Connect With Me
+
+💼 LinkedIn:
+https://linkedin.com/in/khalid-imran-30b118336
+
+💻 GitHub:
+https://github.com/khalid-myprojects
+
+📧 Email:
+khalidimran4566450@gmail.com
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalid-myprojects&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-myprojects&layout=compact&theme=tokyonight)
+## Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
