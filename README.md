@@ -58,10 +58,6 @@ class KhalidImran {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalid-myprojects&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&ring_color=1f6feb" alt="Khalid's GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-myprojects&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
-
 </div>
 
 <div align="center">
@@ -264,17 +260,7 @@ class KhalidImran {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=khalid-myprojects&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
