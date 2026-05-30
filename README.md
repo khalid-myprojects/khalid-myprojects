@@ -19,10 +19,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=📱+Cross-Platform+Mobile+Developer;🔥+Firebase+%7C+REST+APIs+%7C+Clean+Architecture;🎨+Pixel-Perfect+UI+%7C+Smooth+Animations;🚀+Building+Apps+That+People+Love" alt="Typing SVG"/>
-</div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
