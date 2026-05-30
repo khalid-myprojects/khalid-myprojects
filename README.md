@@ -26,9 +26,6 @@ https://github.com/khalid-myprojects
 khalidimran4566450@gmail.com
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalid-myprojects&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-myprojects&layout=compact&theme=tokyonight)
 ## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
