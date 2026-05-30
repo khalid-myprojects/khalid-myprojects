@@ -187,13 +187,6 @@ class KhalidImran {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khalid-myprojects&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&border_radius=12&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid-myprojects&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&border_radius=12&langs_count=6" />
-
-</div>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=khalid-myprojects&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border_radius=12"/>
 
 </div>
