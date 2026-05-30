@@ -85,10 +85,6 @@ class KhalidImran {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=khalid-myprojects&repo=cosmos-app&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&border_radius=10" />
-</div>
-
 <br>
 
 <table width="100%">
